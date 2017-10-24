@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.2 (64-bit)
+# SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+# IP Build 1577682 on Fri Jun  3 12:00:54 MDT 2016
+# Start of session at: Tue Oct 24 10:46:15 2017
+# Process ID: 14652
+# Current directory: U:/CPE439/xadctest/xadctest.runs/synth_1
+# Command line: vivado.exe -log XADCdemo.vds -mode batch -messageDb vivado.pb -notrace -source XADCdemo.tcl
+# Log file: U:/CPE439/xadctest/xadctest.runs/synth_1/XADCdemo.vds
+# Journal file: U:/CPE439/xadctest/xadctest.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source XADCdemo.tcl -notrace
